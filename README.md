@@ -14,7 +14,5 @@
   <img src="https://img.shields.io/badge/Node.js-v20-green?logo=node.js" />
   <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" />
   <img src="https://img.shields.io/badge/Termux-Android-black?logo=android" />
-  <img src="https://img.shields.io/badge/Linux-Supported-blue?logo=linux" />
-  <img src="https://img.shields.io/badge/Windows-Supported-blue?logo=windows" />
   <img src="https://img.shields.io/badge/npm-Package-red?logo=npm" />
 </p>
